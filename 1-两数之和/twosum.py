@@ -1,5 +1,5 @@
 #coding:utf-8
-
+###法一：暴力解法
 class Solution:
     def twoSum(self, nums, target):       
         N = len(nums)
